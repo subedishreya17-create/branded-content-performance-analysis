@@ -1,0 +1,56 @@
+Video_id,Brand,Category,Post_date,"Platform (Insta, TikTok & Facebook)",Views (total),length_seconds,promo_start_sec,opening_style,avg_watch_time_sec,notes
+1,Brand 15 - Campaign A,Apps & digital services,2026-08-08,All,151517,61,14,Humor,14.8,organic views only (brand also ran paid ads)
+2,Brand 15 - Campaign B,Apps & digital services,2026-05-24,All,73000,73,31,Humor,23.0,organic views only
+3,Brand 15 - Campaign C,Apps & digital services,2026-09-11,All,859000,158,143,Emotional,59.0,organic views only
+4,Brand 01 - Campaign A,Apps & digital services,2026-09-08,All,70939,68,40,Humor,24.0,organic views only
+5,Brand 11,Food & beverage,2025-07-15,All,1469575,46,26,Humor,18.0,organic views only
+6,Brand 21 - Campaign A,Insurance,2026-06-22,All,49148,50,20,Humor,11.0,organic views only
+7,Brand 05,E-commerce & retail,2026-06-04,All,86290,64,19,Humor,10.0,organic views only
+8,Brand 07,E-commerce & retail,2026-05-31,All,312244,53,39,Humor,24.0,organic views only
+9,Brand 13,Automotive,2026-05-14,All,47368,52,17,Humor,9.0,organic views only
+10,Brand 41,Home & pet care,2026-04-10,All,110900,42,24,Humor,11.0,organic views only (brand also ran paid ads)
+11,Brand 39,Food & beverage,2026-03-15,All,91300,52,27,Humor,16.0,organic views only
+12,Brand 20 - Campaign A,Consumer electronics,2026-02-05,All,64100,80,35,Humor,18.0,organic views only
+13,Brand 33,Food & beverage,2026-07-10,All,46200,60,21,Humor,9.0,organic views only
+14,Brand 10,Food & beverage,2026-02-03,All,358600,52,24,Humor,15.0,organic views only
+15,Brand 40,Other,2026-09-18,All,147100,55,32,Humor,20.0,organic views only
+16,Brand 25,Beauty & personal care,2025-08-08,All,223200,58,32,Humor,11.8,organic views only
+17,Brand 29 - Campaign A,E-commerce & retail,2025-07-19,All,47379,81,29,Humor,11.4,organic views only
+18,Brand 23,Beauty & personal care,2025-06-20,All,80629,58,29,Humor,10.3,organic views only
+19,Brand 04 - Campaign A,Automotive,2026-04-24,All,25754,54,3,Direct,12.0,organic views only
+20,Brand 04 - Campaign B,Automotive,2026-05-13,All,27309,32,4,Direct,7.0,organic views only
+21,Brand 04 - Campaign C,Automotive,2026-08-12,All,24401,45,4,Direct,9.0,organic views only
+22,Brand 28,Beauty & personal care,2026-09-17,All,8046,68,6,Direct,8.0,organic views only
+23,Brand 43,E-commerce & retail,2026-07-21,All,28322,44,10,Humor,6.0,organic views only
+24,Brand 34,Other,2026-08-19,All,94456,61,26,Humor,8.2,organic views only (brand also ran paid ads)
+25,Brand 14,Food & beverage,2026-07-15,All,56383,53,17,Humor,15.0,organic views only
+26,Brand 18,Consumer electronics,2026-07-17,All,56962,56,20,Humor,11.0,organic views only
+27,Brand 19,E-commerce & retail,2026-07-16,All,26600,59,16,Humor,12.0,organic views only
+28,Brand 17,Beauty & personal care,2026-04-22,All,33000,54,38,Humor,13.0,organic views only
+29,Brand 38,Beauty & personal care,2025-12-16,All,15507,40,15,Normal voiceover ,8.0,organic views only
+30,Brand 37,Food & beverage,2026-05-11,All,20812,52,32,Humor,12.0,organic views only
+31,Brand 27,Other,2025-08-03,All,44300,51,23,Humor,8.7,organic views only
+32,Brand 09,Food & beverage,2026-06-07,All,103800,55,26,Humor,18.0,organic views only
+33,Brand 08,Home & pet care,2025-11-02,All,8787,38,27,Normal voiceover ,6.4,organic views only
+34,Brand 02,Other,2026-07-18,All,46568,68,35,Humor,10.4,organic views only (brand also ran paid ads)
+35,Brand 36,Education,2026-09-20,All,54060,53,46,Humor,21.0,organic views only
+36,Brand 01 - Campaign B,Apps & digital services,2026-09-29,All,561000,65,38,Humor,25.0,organic views only
+37,Brand 31,Education,2026-08-05,All,128200,58,30,Humor,13.0,organic views only
+38,Brand 16,Telecom & internet,2026-03-10,All,78910,49,34,Humor,13.0,organic views only
+39,Brand 15 - Campaign D,Apps & digital services,2025-10-19,All,20016,46,3,Direct,11.0,organic views only
+40,Brand 30,Consumer electronics,2025-10-18,All,557100,79,44,Humor,22.0,organic views only
+41,Brand 15 - Campaign E,Apps & digital services,2025-06-13,All,20012,43,3,Direct,6.6,organic views only
+42,Brand 20 - Campaign B,Consumer electronics,2025-05-30,All,179600,59,20,Humor,11.3,organic views only
+43,Brand 24,Automotive,2024-10-23,All,81600,57,26,Humor,12.1,organic views only
+44,Brand 21 - Campaign B,Insurance,2024-10-06,All,41400,51,32,Humor,11.5,organic views only
+45,Brand 20 - Campaign C,Consumer electronics,2024-10-02,All,368100,54,31,Humor,13.2,organic views only
+46,Brand 26,Consumer electronics,2025-01-10,All,30468,58,32,Humor,6.4,organic views only
+47,Brand 06,Food & beverage,2025-02-02,All,18133,41,13,Humor,6.9,organic views only
+48,Brand 03,Education,2025-02-10,All,230300,63,16,Humor,7.7,organic views only
+49,Brand 29 - Campaign B,E-commerce & retail,2025-04-09,All,60600,57,34,Humor,10.1,organic views only
+50,Brand 32,Apps & digital services,2025-05-24,All,38203,61,34,Humor,9.0,organic views only
+51,Brand 35,Education,2025-06-10,All,23817,62,17,Humor,5.8,organic views only
+52,Brand 22,Telecom & internet,2025-06-25,All,17648,59,16,Humor,7.9,organic views only
+53,Brand 42,Insurance,2025-07-13,All,39400,57,28,Humor,10.8,organic views only
+54,Brand 12,Education,2025-08-12,All,26841,67,27,Humor,8.3,organic views only
+55,Brand 44,Beauty & personal care,2026-10-09,All,55500,48,31,Humor,14.0,organic views only
