@@ -42,9 +42,9 @@ As a content creator in Nepal, I have created sponsored content for more than 45
 
 **5. The regression could not separate opening style from promotion timing,** because direct openings and early promotions occur together. However, the estimated effect of a direct opening stayed consistently negative (about −37% to −46%) across all robustness checks.
 
-![Views by opening style](figures/02_opening_style.png)
-![Reach vs. brand exposure](figures/03_reach_vs_exposure.png)
-![Views vs. video length](figures/04_length_vs_views.png)
+![Views by opening style](02_opening_style.png)
+![Reach vs. brand exposure](03_reach_vs_exposure.png)
+![Views vs. video length](04_length_vs_views.png)
 
 ## What This Means
 
